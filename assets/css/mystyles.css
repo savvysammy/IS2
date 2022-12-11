@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(188, 240, 193);
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+  h1 {
+    background-color: rgb(10, 85, 22);
+    color:blanchedalmond; 
+    border: black 1px solid;
+  padding-left: 15px;
+  border-radius: 25px;
+
+ 
+
+  }
+  
+
+.card{
+  background-color: brown;
+  color:aliceblue;
+  border: black 1px solid;
+  padding-left: 15px;
+  border-radius: 25px;
+ 
+  
+}
+
+.unique{
+  background-color: darkgreen;
+  color:goldenrod;
+  border: black 1px solid;
+  padding-left: 15px;
+  border-radius: 25px;
+}
+
+.bluey{
+  background-color:silver;
+  color:darkolivegreen;
+  border: black 1px solid;
+  padding-left: 15px;
+  border-radius: 25px;
+
+}
+
